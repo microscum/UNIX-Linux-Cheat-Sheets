@@ -8,3 +8,4 @@ Cheat sheets for Linux/UNIX....
 ![ alt text ](https://github.com/microscum/UNIX-Linux-Cheat-Sheets/blob/main/images/UNIX-FUNdamentals-vi-Crib-Sheet_1.png)
 ![ alt text ](https://github.com/microscum/UNIX-Linux-Cheat-Sheets/blob/main/images/UNIX-FUNdamentals-vi-Crib-Sheet_2.png)
 ## [UNIX-FUNdamentals-Cheat-Book](https://github.com/microscum/UNIX-Linux-Cheat-Sheets/blob/main/files/UNIX-FUNdamentals-Cheat-Book.pdf)
+![ alt text ](https://github.com/microscum/UNIX-Linux-Cheat-Sheets/blob/main/images/UNIX-FUNdamentals-Cheat-Book_1.png)
